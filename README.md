@@ -1,6 +1,6 @@
 # CapstoneProject
 
-This repository contains the Python code and simulations used in my Capstone Project for my undergraduate degree in Theoretical Physics at Trinity College Dublin: "Perfect Quantum State Transfer in Chaotic Systems". This project was supervised by Dr. Shane Dooley. 
+This repository contains the Python code and simulations used in my Capstone Project for my undergraduate degree in Theoretical Physics at Trinity College Dublin: "Perfect Quantum State Transfer in Chaotic Systems". This project was supervised by Dr. Shane Dooley of the Dublin Institute of Advanced Studies.
 
 This purpose of code written for this project was to construct the following 
 
